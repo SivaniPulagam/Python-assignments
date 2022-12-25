@@ -15,3 +15,4 @@ if is_prime(n):
     print("Prime")
 else:
     print("Not Prime")
+
